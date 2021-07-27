@@ -1,0 +1,1 @@
+C:\Users\jdhar\AppData\Local\Programs\Python\Python39\python.exe C:\Users\jdhar\OneDrive\Projects\pyJournal\pyJournal.py
